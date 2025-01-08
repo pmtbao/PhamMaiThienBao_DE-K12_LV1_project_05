@@ -1,1 +1,1 @@
-Note: Install necessary libary
+Note: Install necessary libraries
