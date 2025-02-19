@@ -1,4 +1,8 @@
-Note: Install necessary libraries
+# PhamMaiThienBao_DE-K12_LV1_project_05
+
+## Yêu cầu tiên quyết: 
+- Cài đặt các thư viện cần thiết cho môi trường chạy.
+- Có tài khoản GCP.
 
 ## Mô tả file và thư mục:
 - [dim_date.sql](dim_date.sql): file tạo chiều thời gian (date dimension) để phục vụ phân tích.
